@@ -183,62 +183,84 @@ Fusarium Species And Their Mycotoxins In Cereal Food And Feed</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(70).pdf" style="text-decoration:none;">Harvesting Plant And Microbial Biodiversity For Sustainably Enhanced Food Security</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(71).pdf" style="text-decoration:none;">A Novel Feature Selection Strategy for Enhanced Biomedical Event Extraction Using the Turku System</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(71).pdf" style="text-decoration:none;">Molecular Ecology And
+Genetic Diversity Of The Roseobacter Clade</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(72).pdf" style="text-decoration:none;">Predicting Unknown Time Arguments
-based on Cross-Event Propagation</a></li> 
- 
- 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(73).pdf" style="text-decoration:none;">Unsupervised Event Coreference Resolution with Rich Linguistic Features</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(74).pdf" style="text-decoration:none;">Event Specific Multimodal Pattern Mining for Knowledge Base Construction</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(75).pdf" style="text-decoration:none;">Joint Event Extraction Based on Hierarchical Event Schemas From FrameNet</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(76).pdf" style="text-decoration:none;">A Semantic Approach to IE Pattern Induction</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(77).pdf" style="text-decoration:none;">REES: A Large-Scale Relation and Event Extraction System</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(72).pdf" style="text-decoration:none;">Anaerobic Digestion</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(78).pdf" style="text-decoration:none;">A Maximum Entropy Approach to
-Information Extraction from Semi-Structured and Free Text</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(79).pdf" style="text-decoration:none;">Automatically constructing a dictionary for information extraction tasks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(73).pdf" style="text-decoration:none;">Advances In Aspergillus
+Fumigatus Pathobiology</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(74).pdf" style="text-decoration:none;">Exploring Bacterial
+Colonies In Solid Foods Or Model Foods Using Non-destructive Techniques</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(75).pdf" style="text-decoration:none;">Fungal Endophytes
+in Plants</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(76).pdf" style="text-decoration:none;">Gene Function In
+Schistosomes: Recent Advances Towards A Cure</a></li>
 
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(80).pdf" style="text-decoration:none;">A Review of Relation Extraction</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(77).pdf" style="text-decoration:none;">Intracellular
+Biomineralization In Bacteria</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(81).pdf" style="text-decoration:none;">A Survey of Techniques for Event Detection in Twitter</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(82).pdf" style="text-decoration:none;">Complex event extraction at PubMed scale</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(83).pdf" style="text-decoration:none;">Boosting automatic event extraction from the literature using domain adaptation and coreference resolution</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(84).pdf" style="text-decoration:none;">Automatic Acquisition of Domain Knowledge for Information Extraction</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(85).pdf" style="text-decoration:none;">Filtered Ranking for Bootstrapping in Event Extraction</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(86).pdf" style="text-decoration:none;">Joint Modeling for Chinese Event Extraction with Rich Linguistic Features</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(87).pdf" style="text-decoration:none;">Joint Modeling of Trigger Identification and Event Type Determination in Chinese Event Extraction</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(88).pdf" style="text-decoration:none;">Leveraging Multilingual Training for Limited Resource Event Extraction</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(89).pdf" style="text-decoration:none;">Incremental Global Event Extraction</a></li>
-  
-  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(90).pdf" style="text-decoration:none;"> Joint Inference for Event Coreference Resolution</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(91).pdf" style="text-decoration:none;">Event Detection with Burst Information Networks</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(92).pdf" style="text-decoration:none;">Open-Domain Event Detection using Distant Supervision</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(93).pdf" style="text-decoration:none;">Adaptive Information Extraction from Text by Rule Induction and Generalisation</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(94).pdf" style="text-decoration:none;">Fast and Robust Joint Models for Biomedical Event Extraction</a></li> 
-  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(95).pdf" style="text-decoration:none;">Joint Entity and Event Coreference Resolution across Documents</a></li>  
-  
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(96).pdf" style="text-decoration:none;">Employing Compositional Semantics and Discourse Consistency in Chinese Event Extraction</a></li> 
-  
-  
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(97).pdf" style="text-decoration:none;">Relieving the Computational Bottleneck: Joint Inference for Event Extraction with High-Dimensional Features</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(78).pdf" style="text-decoration:none;">Staphylococcus
+aureus Toxins</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(79).pdf" style="text-decoration:none;">The Metabolic Pathways And
+Environmental Controls Of Hydrocarbon Biodegradation In Marine Ecosystems</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(98).pdf" style="text-decoration:none;">Cross-document Event Coreference Resolution based on Cross-media Features</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(80).pdf" style="text-decoration:none;">Viruses Threatening Stable
+Production Of Cereal Crops</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(81).pdf" style="text-decoration:none;">From Genes To Species: Novel Insights From Metagenomics</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(82).pdf" style="text-decoration:none;">Actinobacteria In Special
+And Extreme Habitats: Diversity, Function Roles And Environmental Adaptations</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(83).pdf" style="text-decoration:none;">Biofilms From A
+Food Microbiology Perspective: Structures, Functions And Control Strategies</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(84).pdf" style="text-decoration:none;">Emerging Tools For Emerging Symbioses — Using Genomics Applications To Studying Endophytes</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(85).pdf" style="text-decoration:none;">Plant Immunity
+Against Viruses</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(86).pdf" style="text-decoration:none;">About The Foodborne
+Pathogen Campylobacter</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(87).pdf" style="text-decoration:none;">Genetics, Genomics And –omics Of Thermophiles</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(88).pdf" style="text-decoration:none;">Planctomycetes-verrucomicrobiachlamydiae Bacterial Superphylum: New Model Organisms For Evolutionary Cell Biology</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(89).pdf" style="text-decoration:none;">Antimicrobial Compounds
+From Natural Sources</a></li>
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(99).pdf" style="text-decoration:none;">Joint Event Trigger Identification and Event Coreference Resolution with Structured Perceptron</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(100).pdf" style="text-decoration:none;">Event Detection and Co-reference with Minimal Supervision</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(90).pdf" style="text-decoration:none;"> Biogenic Amines In
+Fermented Foods</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(91).pdf" style="text-decoration:none;">Computational
+Systems Biology Of Pathogen-host Interactions</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(92).pdf" style="text-decoration:none;">Fungal Pigments</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(93).pdf" style="text-decoration:none;">Green Synthesis
+of Nanomaterials</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(94).pdf" style="text-decoration:none;">Bad Bugs In The Xxist
+Century: Resistance Mediated By Multi-drug Efflux Pumps In Gram-negative Bacteria</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(95).pdf" style="text-decoration:none;">Anthropogenic Impacts
+On The Microbial Ecology And Function Of Aquatic Environments</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(96).pdf" style="text-decoration:none;">Fungal Jewels: Secondary
+Metabolites</a></li> 
+  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(97).pdf" style="text-decoration:none;">Surveying Antimicrobial
+Resistance: Approaches, Issues, And Challenges To Overcome</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(98).pdf" style="text-decoration:none;">The Global Challenge
+Posed By The Multiresistant International Clones Of Bacterial Pathogens</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(99).pdf" style="text-decoration:none;">Phage Therapy: Past,
+Present And Future</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(100).pdf" style="text-decoration:none;">Game Changer – Next
+Generation Sequencing And Its Impact On Food Microbiology</a></li>  
   
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(101).pdf" style="text-decoration:none;">Modeling Skip-Grams for Event Detection with Convolutional Neural Networks</a></li> 
   
