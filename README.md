@@ -153,7 +153,7 @@ Components in Fermented Foods and Food By-Products</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(58).pdf" style="text-decoration:none;">Hydrogen production using
 Purple Non-Sulfur Bacteria (PNSB) cultivated under natural or artificial light conditions with synthetic or fermentation derived substrates</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(59).pdf" style="text-decoration:none;">Event Extraction from Unstructured Amharic Text</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(59).pdf" style="text-decoration:none;">General Microbiology</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(60).pdf" style="text-decoration:none;">Characteristics of raw and cooked fillets in species of actual and potential interest for italian aquaculture</a></li>
  
@@ -316,5 +316,8 @@ Microbial Ecosystems</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(120).pdf" style="text-decoration:none;">Systems Biology And Ecology Of Microbial Mat Communities</a></li>  
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(121).pdf" style="text-decoration:none;">The Bacterial Cell:
-Coupling Between Growth, Nucleoid Replication, Cell Division And Shape</a></li>   
+Coupling Between Growth, Nucleoid Replication, Cell Division And Shape</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(122).pdf" style="text-decoration:none;">Microbiology: A Laboratory Experience</a></li>
+
+
    </ul>
