@@ -6,136 +6,136 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(1).pdf" style="text-decoration:none;">Emerging Approaches
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(1).PDF" style="text-decoration:none;">Emerging Approaches
 For Typing, Detection, Characterization, And Traceback Of Escherichia Coli</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(2).pdf" style="text-decoration:none;">Dna Polymerases In
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(2).PDF" style="text-decoration:none;">Dna Polymerases In
 Biotechnology</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(3).pdf" style="text-decoration:none;">Antifungal Drug
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(3).PDF" style="text-decoration:none;">Antifungal Drug
 Discovery: New Theories And New Therapies</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(4).pdf" style="text-decoration:none;">Filamentous Bacteriophage
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(4).PDF" style="text-decoration:none;">Filamentous Bacteriophage
 In Bio/nano/technology, Bacterial Pathogenesis And Ecology</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(5).pdf" style="text-decoration:none;">Microbial And
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(5).PDF" style="text-decoration:none;">Microbial And
 Environmental Factors In Autoimmune And Inflammatory Diseases</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(6).pdf" style="text-decoration:none;">Microbial Ecology
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(6).PDF" style="text-decoration:none;">Microbial Ecology
 In The North Pacific Subtropical Gyre</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(7).pdf" style="text-decoration:none;">Engineering Rumen Metabolic
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(7).PDF" style="text-decoration:none;">Engineering Rumen Metabolic
 Pathways: Where We Are, And Where Are We Heading</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(8).pdf" style="text-decoration:none;"> Mycoplasma Pneumoniae
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(8).PDF" style="text-decoration:none;"> Mycoplasma Pneumoniae
 Clinical Manifestations, Microbiology, And Immunology </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(9).pdf" style="text-decoration:none;">Spores And Spore
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(9).PDF" style="text-decoration:none;">Spores And Spore
 Formers</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(10).pdf" style="text-decoration:none;">Ecology, Virulence And
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(10).PDF" style="text-decoration:none;">Ecology, Virulence And
 Detection Of Pathogenic And Pandemic Vibrio Parahaemolyticus</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(11).pdf" style="text-decoration:none;">Development Of Microbial
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(11).PDF" style="text-decoration:none;">Development Of Microbial
 Ecological Theory: Stability, Plasticity, And Evolution Of Microbial Ecosystems</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(12).pdf" style="text-decoration:none;">Dna Replication
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(12).PDF" style="text-decoration:none;">Dna Replication
 Origins In Microbial Genomes</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(13).pdf" style="text-decoration:none;">Microbial Role In
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(13).PDF" style="text-decoration:none;">Microbial Role In
 The Carbon Cycle In Tropical Inland Aquatic Ecosystems</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(14).pdf" style="text-decoration:none;">Microorganisms For
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(14).PDF" style="text-decoration:none;">Microorganisms For
 Functional Food</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(15).pdf" style="text-decoration:none;">Global Health Issues Of
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(15).PDF" style="text-decoration:none;">Global Health Issues Of
 Aflatoxins In Food And Agriculture: Challenges And Opportunities</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(16).pdf" style="text-decoration:none;">Advances in
 Single Molecule, Real-Time (SMRT) Sequencing</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(17).pdf" style="text-decoration:none;">Animal Model Studies On
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(17).PDF" style="text-decoration:none;">Animal Model Studies On
 Viral Infections</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(18).pdf" style="text-decoration:none;">Genetics Of Acquired
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(18).PDF" style="text-decoration:none;">Genetics Of Acquired
 Antimicrobial Resistance In Animal And Zoonotic Pathogens</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(19).pdf" style="text-decoration:none;">Agrobacterium
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(19).PDF" style="text-decoration:none;">Agrobacterium
 Biology And Its Application To Transgenic Plant Production</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(20).pdf" style="text-decoration:none;">Emerging Enterobacteriaceae
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(20).PDF" style="text-decoration:none;">Emerging Enterobacteriaceae
 Infections: Antibiotic Resistance And Novel Treatment Options</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(21).pdf" style="text-decoration:none;">Genome Mining
 and Marine Microbial Natural Products</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(22).pdf" style="text-decoration:none;">The Causes And Consequences
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(22).PDF" style="text-decoration:none;">The Causes And Consequences
 Of Microbial Community Structure</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(23).pdf" style="text-decoration:none;">MicroRNA as
 Biomarkers in Cancer Diagnostics and Therapy</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(24).pdf" style="text-decoration:none;">Beyond The Iron Age: The
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(24).PDF" style="text-decoration:none;">Beyond The Iron Age: The
 Ecological Relevance Of Bioactive Trace Metals Other Than Fe And Organic Growth Factors In Aquatic Systems</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(25).pdf" style="text-decoration:none;">Microbiotechnology Based
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(25).PDF" style="text-decoration:none;">Microbiotechnology Based
 Surfactants And Their Applications</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(26).pdf" style="text-decoration:none;">Conflict And
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(26).PDF" style="text-decoration:none;">Conflict And
 Cooperation In Microbial Societies</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(27).pdf" style="text-decoration:none;">Biodiversity
 Conservation and Phylogenetic Systematics</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(28).pdf" style="text-decoration:none;">A Multidisciplinary Look
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(28).PDF" style="text-decoration:none;">A Multidisciplinary Look
 At Stenotrophomonas Maltophilia: An Emerging Multi-drug-resistant Global Opportunistic Pathogen</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(29).pdf" style="text-decoration:none;">Plants As Alternative
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(29).PDF" style="text-decoration:none;">Plants As Alternative
 Hosts For Human And Animal Pathogens </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(30).pdf" style="text-decoration:none;">Bacterial Pathogens In The
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(30).PDF" style="text-decoration:none;">Bacterial Pathogens In The
 Non-clinical Environment</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(31).pdf" style="text-decoration:none;">Parasites In The
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(31).PDF" style="text-decoration:none;">Parasites In The
 Tropic - A New Paradigm Shift</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(32).pdf" style="text-decoration:none;">Bioactive Compounds
 from Marine Derived Aspergillus, Penicillium, Talaromyces and Trichoderma Species</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(33).pdf" style="text-decoration:none;">Gram-positive Phages: From Isolation To Application</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(33).PDF" style="text-decoration:none;">Gram-positive Phages: From Isolation To Application</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(34).pdf" style="text-decoration:none;">Antibiotic Resistance
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(34).PDF" style="text-decoration:none;">Antibiotic Resistance
 In Aquatic Systems</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(35).pdf" style="text-decoration:none;">New Edge Of Antibiotic
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(35).PDF" style="text-decoration:none;">New Edge Of Antibiotic
 Development: Antimicrobial Peptides And Corresponding Resistance</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(36).pdf" style="text-decoration:none;">Antimicrobial Resistance
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(36).PDF" style="text-decoration:none;">Antimicrobial Resistance
 And Virulence Common Mechanisms</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(37).pdf" style="text-decoration:none;">Breaking The Cycle:
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(37).PDF" style="text-decoration:none;">Breaking The Cycle:
 Attacking The Malaria Parasite In The Liver</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(38).pdf" style="text-decoration:none;">Interaction Of Trypanosoma
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(38).PDF" style="text-decoration:none;">Interaction Of Trypanosoma
 Cruzi With Host Cells</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(39).pdf" style="text-decoration:none;">Physiological And Molecular
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(39).PDF" style="text-decoration:none;">Physiological And Molecular
 Ecology Of Aquatic Cyanobacteria</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(40).pdf" style="text-decoration:none;">Low-dose Antibiotics: Current Status And Outlook For The Future</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(41).pdf" style="text-decoration:none;">Synthetic Biology Applications In Industrial Microbiology</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(40).PDF" style="text-decoration:none;">Low-dose Antibiotics: Current Status And Outlook For The Future</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(41).PDF" style="text-decoration:none;">Synthetic Biology Applications In Industrial Microbiology</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(42).pdf" style="text-decoration:none;">Microbial Biofilms
 in Healthcare: Formation, Prevention and Treatment</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(43).pdf" style="text-decoration:none;">Comparative Studies
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(43).PDF" style="text-decoration:none;">Comparative Studies
 Between Htlv-1 And Htlv-2 Function And Pathobiology</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(44).pdf" style="text-decoration:none;">Role And Prevalence Of
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(44).PDF" style="text-decoration:none;">Role And Prevalence Of
 Antibiosis And The Related Resistance Genes In The Environment</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(45).pdf" style="text-decoration:none;">Manipulation Of The Host
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(45).PDF" style="text-decoration:none;">Manipulation Of The Host
 Cell By Viral Auxiliary Proteins</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(46).pdf" style="text-decoration:none;">Pathophysiology And Epidemiology Of Virus-induced Asthma</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(46).PDF" style="text-decoration:none;">Pathophysiology And Epidemiology Of Virus-induced Asthma</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(47).pdf" style="text-decoration:none;">Bioactive Compounds
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(47).PDF" style="text-decoration:none;">Bioactive Compounds
 From Microbes</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(48).pdf" style="text-decoration:none;">The Multiple Roles Of
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(48).PDF" style="text-decoration:none;">The Multiple Roles Of
 Antibiotics And Antibiotic Resistance In Nature</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(49).pdf" style="text-decoration:none;">Safety and
 Microbiological Quality</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(50).pdf" style="text-decoration:none;">Signaling In The
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(50).PDF" style="text-decoration:none;">Signaling In The
 Phytomicrobiome</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(51).pdf" style="text-decoration:none;">The Impact of Food Bio-Actives on Gut Health</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(52).pdf" style="text-decoration:none;">Control Of Pestivirus
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(52).PDF" style="text-decoration:none;">Control Of Pestivirus
 Infections In The Management Of Wildlife Populations</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(53).pdf" style="text-decoration:none;">Fungal Infections in
