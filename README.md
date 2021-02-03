@@ -6,43 +6,62 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(1).pdf" style="text-decoration:none;">The Origins of Telicity</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(1).pdf" style="text-decoration:none;">Emerging Approaches
+For Typing, Detection, Characterization, And Traceback Of Escherichia Coli</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(2).pdf" style="text-decoration:none;">SupervisedWithin-Document Event Coreference using Information Propagation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(2).pdf" style="text-decoration:none;">Dna Polymerases In
+Biotechnology</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(3).pdf" style="text-decoration:none;">Nominal Reference, Temporal
-Constitution and Quantification in Event Semantics</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(4).pdf" style="text-decoration:none;">Event Detection via Recurrent Neural Network and Argument Prediction</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(5).pdf" style="text-decoration:none;">Joint Modeling of Argument Identification and Role Determination in Chinese Event Extraction with Discourse- evel Information</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(6).pdf" style="text-decoration:none;">F-HMTC: Detecting Financial Events for Investment Decisions Based on Neural Hierarchical Multi-Label Text Classification</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(7).pdf" style="text-decoration:none;">A Unified Model for Financial Event Classification, Detection and Summarization</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(3).pdf" style="text-decoration:none;">Antifungal Drug
+Discovery: New Theories And New Therapies</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(4).pdf" style="text-decoration:none;">Filamentous Bacteriophage
+In Bio/nano/technology, Bacterial Pathogenesis And Ecology</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(5).pdf" style="text-decoration:none;">Microbial And
+Environmental Factors In Autoimmune And Inflammatory Diseases</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(6).pdf" style="text-decoration:none;">Microbial Ecology
+In The North Pacific Subtropical Gyre</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(7).pdf" style="text-decoration:none;">Engineering Rumen Metabolic
+Pathways: Where We Are, And Where Are We Heading</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(8).pdf" style="text-decoration:none;"> SupervisedWithin-Document Event Coreference using Information Propagation </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(9).pdf" style="text-decoration:none;">A Linguistic Resource for Discovering Event Structures and Resolving Event Coreference</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(8).pdf" style="text-decoration:none;"> Mycoplasma Pneumoniae
+Clinical Manifestations, Microbiology, And Immunology </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(9).pdf" style="text-decoration:none;">Spores And Spore
+Formers</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(10).pdf" style="text-decoration:none;">Extracting Entities and Events as a Single Task Using a Transition-Based Neural Model</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(11).pdf" style="text-decoration:none;">Using a sledgehammer to crack a nut?
-Lexical diversity and event coreference resolution</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(12).pdf" style="text-decoration:none;">CASIE: Extracting Cybersecurity Event Information from Text</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(13).pdf" style="text-decoration:none;">Event Extraction Using Distant Supervision</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(10).pdf" style="text-decoration:none;">Ecology, Virulence And
+Detection Of Pathogenic And Pandemic Vibrio Parahaemolyticus</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(11).pdf" style="text-decoration:none;">Development Of Microbial
+Ecological Theory: Stability, Plasticity, And Evolution Of Microbial Ecosystems</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(12).pdf" style="text-decoration:none;">Dna Replication
+Origins In Microbial Genomes</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(13).pdf" style="text-decoration:none;">Microbial Role In
+The Carbon Cycle In Tropical Inland Aquatic Ecosystems</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(14).pdf" style="text-decoration:none;">SinoCoreferencer: An End-to-End Chinese Event Coreference Resolver</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(14).pdf" style="text-decoration:none;">Microorganisms For
+Functional Food</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(15).pdf" style="text-decoration:none;">Word sense disambiguation for event trigger word detection in biomedicine</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(15).pdf" style="text-decoration:none;">Global Health Issues Of
+Aflatoxins In Food And Agriculture: Challenges And Opportunities</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(16).pdf" style="text-decoration:none;">Wide coverage biomedical event extraction using multiple partially overlapping corpora</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(16).pdf" style="text-decoration:none;">Advances in
+Single Molecule, Real-Time (SMRT) Sequencing</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(17).pdf" style="text-decoration:none;">Semi-supervised method for biomedical event extraction</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(17).pdf" style="text-decoration:none;">Animal Model Studies On
+Viral Infections</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(18).pdf" style="text-decoration:none;">Scale Up Event Extraction Learning via Automatic Training Data Generation</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(18).pdf" style="text-decoration:none;">Genetics Of Acquired
+Antimicrobial Resistance In Animal And Zoonotic Pathogens</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(19).pdf" style="text-decoration:none;">Event Detection with Neural Networks: A Rigorous Empirical Evaluation</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(19).pdf" style="text-decoration:none;">Agrobacterium
+Biology And Its Application To Transgenic Plant Production</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(20).pdf" style="text-decoration:none;">Jointly Multiple Events Extraction via Attention-based Graph Information Aggregation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(20).pdf" style="text-decoration:none;">Emerging Enterobacteriaceae
+Infections: Antibiotic Resistance And Novel Treatment Options</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(21).pdf" style="text-decoration:none;">One for All: Neural Joint Modeling of Entities and Events</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(21).pdf" style="text-decoration:none;">Genome Mining
+and Marine Microbial Natural Products</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(22).pdf" style="text-decoration:none;">Doc2EDAG: An End-to-End Document-level Framework for Chinese Financial Event Extraction</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Microbiology-Books/blob/master/mic(23).pdf" style="text-decoration:none;">Cost-sensitive Regularization for Label Confusion-aware Event Detection</a></li> 
  
